@@ -1,2 +1,2 @@
 # supervoicerecorder
-https://github.com/dev-huawei/supervoicerecorder
+ https://dev-huawei.github.io/supervoicerecorder/
